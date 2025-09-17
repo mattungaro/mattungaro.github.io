@@ -22,3 +22,4 @@ plugins:
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Matt Ungaro
 description: A portfolio
+color-scheme: light
