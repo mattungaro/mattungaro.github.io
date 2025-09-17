@@ -19,5 +19,6 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 # Add the following to activate the plugin
 plugins:
   - jekyll-remote-theme
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Matt Ungaro
 description: A portfolio
