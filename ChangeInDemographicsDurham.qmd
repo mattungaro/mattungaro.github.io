@@ -1,0 +1,58 @@
+---
+title: "Change in Demographic Characteristics in Durham County"
+author: "Matt Ungaro"
+format: html
+editor: visual
+---
+
+The population from 1990-2020 has grown by more than 200%.
+
+I want to look at 1990-2024. 
+
+# Bring in Block Groups 
+
+(or tracts? Or blocks?) for every three years for the past thirty years
+
+Specifically, bring in block groups broken down into ethno-racial categories
+- White alone (NH)
+- Black or African American alone (NH)
+- Native American or Alaska Native alone (NH)	
+- Asian alone (NH)
+- Pacific Islander alone (NH)
+- Some Other Race alone (NH)	
+- Mixed Race or Multi-Racial (NH)
+- Hispanic or Latino (any race)
+
+Or I might just do white, black, hispanic/latino as percent of total.
+
+```{r}
+acs1 <- load_variables(2023, "acs1", cache = TRUE)
+
+var <- c('B03002_001', 'B03002_002', 'B03002_003', 'B03002_004', 'B03002_005','B03002_006', 'B03002_007','B03002_012')
+
+yr2023 <- tidycensus::get_acs("block group", variables = var, county = "Durham", state = "NC",
+                    year = 2023, geometry = F)
+
+yr2024 <- tidycensus::get_acs("block group", variables = var, county = "Durham", state = "NC",
+                    year = 2023, geometry = F, survey = "acs1")
+
+```
+
+I want to see, specifically, the change in time in the white alone and black alone categories -- I want to understand how neighborhoods in Durham have changed in the last 30 years.
+
+Prediction:
+- A few neighborhoods will have dramatic changes from black to white, but it won't be everywhere.
+- Hispanic/Latino will go up dramatically in some neighborhoods. 
+- Directly downtown will see a big jump in white.
+- median income (if I grab that) will see a big jump averaged across the county.
+- 
+
+Visualizations:
+- A time series line plot of neighborhoods, with %white plotted.
+- A time series line plot of neighborohoods, with %black plotted.
+- A time series line plot of neighborhoods, with %hispanic/latino plotted.
+
+# Sidequest
+
+Are landlords in the last 10 years kicking out more folks than they were in the
+previous 30 years?
