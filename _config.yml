@@ -33,19 +33,11 @@ navigation:
     link: ./
     sublist:
       - name: Public Projects
-        link: ./#usage
-      - name: Customizing
-        link: ./#customizing
-      - name: Customizing Sidebar
-        link: ./#customizing-sidebar
-      - name: Navigation
-        link: ./#navigation
-      - name: Example
-        link: ./#example
-      - name: Stylesheet
-        link: ./#stylesheet
-      - name: Credits
-        link: ./#credits
+        link: ./# Public Projects
+      - name: Personal Projects
+        link: ./#Personal Projects
+      - name: University Projects
+        link: ./#University Projects
   - name: Sample
     link: ./another-page.html
     sublist:
