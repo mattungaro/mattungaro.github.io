@@ -27,3 +27,27 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/matt-ungaro/
+
+navigation:
+  - name: Home Page
+    link: ./
+    sublist:
+      - name: Public Projects
+        link: ./#usage
+      - name: Customizing
+        link: ./#customizing
+      - name: Customizing Sidebar
+        link: ./#customizing-sidebar
+      - name: Navigation
+        link: ./#navigation
+      - name: Example
+        link: ./#example
+      - name: Stylesheet
+        link: ./#stylesheet
+      - name: Credits
+        link: ./#credits
+  - name: Sample
+    link: ./another-page.html
+    sublist:
+      - name: Image
+        link: ./another-page.html#small-image
