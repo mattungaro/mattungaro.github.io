@@ -23,3 +23,10 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Matt Ungaro
 description: A portfolio
 color-scheme: light
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/mattungaro
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/matt-ungaro/
