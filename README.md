@@ -1,4 +1,4 @@
-Hi, I'm Matt! I'm a **Senior Data Analyst** at **https://rs21.io/**, a software and data science company based out of New Mexico.
+Hi, I'm Matt! I'm a **Senior Data Analyst** at [RS21](http://rs21.io), a software and data science company based out of New Mexico.
 
 # Public Projects
 For most of my time at RS21, I've supported data analysis and management efforts in the federal government. However, there are a few projects that I've been involved in at the state level in New Mexico that resulted in some publicly available data and applications:
