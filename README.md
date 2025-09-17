@@ -15,7 +15,7 @@ For most of my time at RS21, I've supported data analysis and management efforts
 # Personal Projects
 Coming Soon
 
-## University Projects
+# University Projects
 **Prioritizing streams: The impacts of in-kind mitigation rules on an ecosystem offset market**
 - We studied a novel, in-kind stream mitigation policy in Texas’s Upper Trinity River Basin. We found this policy, the Stream Mitigation Method (SMM), spawned an enduring stream mitigation market. (https://www.sciencedirect.com/science/article/abs/pii/S1462901122000491)
 
