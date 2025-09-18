@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # DECISION TREES #################
 # PRACTICE 1 ##################
 
