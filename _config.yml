@@ -36,6 +36,12 @@ navigation:
     link: ./
   - name: Posts
     sublist:
-      - name: Random Forest Test
-        link: ./random_forest_test.html
-
+    link:
+      - name: Machine Learning
+        sublist:
+        link:
+          - name: Random Forest Test
+            link: ./random_forest_test.html
+      - name: Spatial Data Science
+        sublist:
+        link:
