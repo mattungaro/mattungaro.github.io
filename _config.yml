@@ -43,3 +43,5 @@ navigation:
     sublist:
       - name: Image
         link: ./another-page.html#small-image
+  - name: Random Forest Test
+    link: ./random_forest_test.html
