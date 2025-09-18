@@ -27,6 +27,8 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/matt-ungaro/
+  - name: matthewrungaro@gmail.com
+    icon: <i class="fa-solid fa-envelope"></i>
 
 navigation:
   - name: Home Page
