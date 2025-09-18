@@ -1,5 +1,8 @@
 Hi, I'm Matt! I'm a **Senior Data Analyst** at **[RS21](http://rs21.io)**, a software and data science company based out of New Mexico.
 
+# Posts
+Coming Soon
+
 # Public Projects
 For most of my time at RS21, I've supported data analysis and management efforts in the federal government. Consequently, most of that work is not public. However, there are a few projects that I've been involved in at the state level in New Mexico that resulted in some publicly available data and applications:
 
@@ -11,9 +14,6 @@ For most of my time at RS21, I've supported data analysis and management efforts
 ## Work with the New Mexico Office of Broadband Access and Expansion
 - Supported the rollout of the **[New Mexico Broadband Mapping and Data Hub](https://maps.connect.nm.gov/)**. Designed and constructed version 1.
 - Compiled and constructed a grant funding data set of all essential information (Providers, Projects, Funding, Fiber Miles, spatial information) from numerous data sources. Used for the **[Grants for NM Broadband](https://experience.arcgis.com/experience/fa07c9e3b6e348b9b7b3279353fa810a)** application.
-
-# Personal Projects
-Coming Soon
 
 # University Projects
 **[Prioritizing streams: The impacts of in-kind mitigation rules on an ecosystem offset market](https://www.sciencedirect.com/science/article/abs/pii/S1462901122000491)**
