@@ -29,6 +29,7 @@ platforms:
     link: https://www.linkedin.com/in/matt-ungaro/
   - name: matthewrungaro@gmail.com
     icon: <i class="fa-solid fa-envelope"></i>
+    link: mailto:matthewrungaro@gmail.com
 
 navigation:
   - name: Home Page
