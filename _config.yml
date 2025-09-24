@@ -37,4 +37,4 @@ navigation:
   - name: Posts
     sublist:
       - name: Predicting Sleep Quality Decision Trees with LassoCV
-        link: ./Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.ipynb
+        link: ./Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.html
