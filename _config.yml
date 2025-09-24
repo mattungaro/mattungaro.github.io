@@ -36,5 +36,5 @@ navigation:
     link: ./
   - name: Posts
     sublist:
-      - name: Random Forest Test
-        link: ./random_forest_test.html
+      - name: Predicting Sleep Quality Decision Trees with LassoCV
+        link: ./Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.ipynb
