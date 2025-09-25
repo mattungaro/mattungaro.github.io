@@ -1,7 +1,7 @@
 Hi, I'm Matt! I'm a **Senior Data Analyst** at **[RS21](http://rs21.io)**, a software and data science company based out of New Mexico.
 
 # Posts
-- **[Predicting Sleep Quality: Decision Trees with LassoCV](/Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.html)**
+- **[Predicting Sleep Quality: Decision Trees with LassoCV](https://mattungaro.github.io/Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.html)**
 
 _More coming soon._
 
