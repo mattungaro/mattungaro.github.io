@@ -1,9 +1,9 @@
 Hi, I'm Matt! I'm a **Senior Data Analyst** at **[RS21](http://rs21.io)**, a software and data science company based out of New Mexico.
 
 # Posts
-- [Predicting Sleep Quality: Decision Trees with LassoCV](/Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.html)
+- **[Predicting Sleep Quality: Decision Trees with LassoCV](https://mattungaro.github.io/Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.html)**
 
-More coming soon
+_More coming soon._
 
 # Public Projects
 For most of my time at RS21, I've supported data analysis and management efforts in the federal government. Consequently, most of that work is not public. However, there are a few projects that I've been involved in at the state level in New Mexico that resulted in some publicly available data and applications:
