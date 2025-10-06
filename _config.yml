@@ -38,6 +38,5 @@ navigation:
     sublist:
       - name: Predicting Sleep Quality - Decision Trees with LassoCV
         link: ./Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.html
-      - name: Land Cover Classification in Georgia with Machine Learning
-        link: ./Classifying_Land_with_Random_Forest.html
+
 
