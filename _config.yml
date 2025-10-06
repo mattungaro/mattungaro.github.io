@@ -39,5 +39,5 @@ navigation:
       - name: Predicting Sleep Quality - Decision Trees with LassoCV
         link: ./Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.html
       - name: Classifying Land Cover with Machine Learning
-        link: ./Classifying_Land_with_Random_Forest.html
+        link: ./Classifying_Land.html
 
