@@ -38,6 +38,4 @@ navigation:
     sublist:
       - name: Predicting Sleep Quality - Decision Trees with LassoCV
         link: ./Predicting_Sleep_Quality_Decision_Trees_with_LassoCV.html
-      - name: Classifying Land with Random Forest (TEST)
-        link: ./Classifying_Land_with_Random_Forest.html
 
