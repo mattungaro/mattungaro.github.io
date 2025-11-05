@@ -19,10 +19,9 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 # Add the following to activate the plugin
 plugins:
   - jekyll-remote-theme
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+remote_theme: pages-themes/minimal@v0.2.0
 title: Matt Ungaro
 description: A portfolio
-color-scheme: light
 platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
