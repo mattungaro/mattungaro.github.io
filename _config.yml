@@ -19,7 +19,7 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 # Add the following to activate the plugin
 plugins:
   - jekyll-remote-theme
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 title: Matt Ungaro
 description: A portfolio
 platforms:
